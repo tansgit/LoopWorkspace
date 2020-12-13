@@ -18,7 +18,7 @@
 	url = https://github.com/tansgit/G4ShareSpy.git
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/tansgitps2/rileylink_ios.git
+	url = https://github.com/tansgit/rileylink_ios.git
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/tansgit/Amplitude-iOS.git
